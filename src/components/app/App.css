@@ -1,0 +1,12 @@
+.App {
+  position: relative;
+  margin: 120px auto;
+  padding: 50px;
+  width: 300px;
+  height: fit-content;
+  font-family: 'Roboto', sans-serif;
+  color: #595c6c;
+  font-size: 18px;
+  background-color: #fff;
+  box-shadow: 3px 3px 10px #dddcdc;
+}
