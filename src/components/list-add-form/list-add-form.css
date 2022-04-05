@@ -1,25 +1,24 @@
-.todo-input {
+.list-add-input {
     display: block;
     margin-bottom: 15px;
-    padding: 15px;
+    padding: 10px;
     width: 265px;
     color: inherit;
     font-size: inherit;
     border: none;
-    border-bottom: 2px solid rgba(96, 216, 166, 0.7);
+    border-bottom: 2px solid rgba(255, 255, 255, 0.7);
+    background-color: inherit;
     outline: none;
 }
 
-.btn-form-add {
+.list-add-form-btn {
     display: block;
-    margin: 0 auto;
-    margin-bottom: 10px;
     padding: 15px;
     width: 40%;
     color: #4e8a71;
     font-family: inherit;
     font-size: 18px;
-    background-color: #60d8a6;
     border: none;
     border-radius: 30px;
+    cursor: pointer;
 }
